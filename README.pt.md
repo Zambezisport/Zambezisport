@@ -2,20 +2,21 @@
 
 [English](README.md) | **Português**
 
-🏜️ **Saúde ambiental para o motociclismo e ralis no deserto — lê a etapa antes de a correr.**
+🏜️🌊 **Saúde ambiental para o desporto motorizado — na etapa do deserto e em mar aberto.**
 
-Nas condições de um rali-raide, o ambiente é um adversário: calor no cockpit que
-cozinha pilotos dentro de equipamento selado, poeira que sufoca motores e cega
-motociclistas, UV que castiga cada minuto exposto. A Zambezisport transforma
-dados ambientais em orientação clara de correr / encurtar / cancelar para
-etapas e eventos no deserto — construída para as condições da África Austral,
-relevante onde quer que o deserto mande.
+Numa etapa de rali-raide ou numa perna offshore, o ambiente é um adversário:
+calor de cockpit que cozinha pilotos dentro de equipamento selado, poeira que
+sufoca motores e cega motociclistas, mar que decide se um barco corre ou fica
+no porto, UV que castiga cada minuto exposto. A Zambezisport transforma dados
+ambientais em orientação clara de correr / encurtar / cancelar para etapas no
+deserto e eventos no mar — construída para as condições da África Austral,
+relevante onde quer que o deserto e o mar mandem.
 
 - 🌐 **Site** → [zambezisport.com](https://zambezisport.com)
 
 ## Código aberto
 
-Utilitários de conservação dos oceanos em
+Utilitários de trabalho no mar e desporto náutico em
 [**zambezisport-ocean**](https://github.com/Zambezisport/zambezisport-ocean):
 
 | ficheiro | o que é |
