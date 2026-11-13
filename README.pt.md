@@ -2,15 +2,17 @@
 
 [English](README.md) | **Português**
 
-🏜️🌊 **Saúde ambiental para o desporto motorizado — na etapa do deserto e em mar aberto.**
+🏜️🌊 **Desporto motorizado pela natureza — na etapa do deserto e em mar aberto.**
 
 Numa etapa de rali-raide ou numa perna offshore, o ambiente é um adversário:
 calor de cockpit que cozinha pilotos dentro de equipamento selado, poeira que
 sufoca motores e cega motociclistas, mar que decide se um barco corre ou fica
-no porto, UV que castiga cada minuto exposto. A Zambezisport transforma dados
-ambientais em orientação clara de correr / encurtar / cancelar para etapas no
-deserto e eventos no mar — construída para as condições da África Austral,
-relevante onde quer que o deserto e o mar mandem.
+no porto, UV que castiga cada minuto exposto. A Zambezisport leva iniciativas
+de natureza e ambiente onde o público do desporto motorizado realmente olha —
+e transforma dados ambientais em orientação clara de correr / encurtar /
+cancelar para etapas no deserto e eventos no mar.
+
+O ambiente não é o pano de fundo. É o juiz.
 
 - 🌐 **Site** → [zambezisport.com](https://zambezisport.com)
 

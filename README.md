@@ -2,15 +2,17 @@
 
 **English** | [Português](README.pt.md)
 
-🏜️🌊 **Environmental health for motorsport — on the desert stage and the open water.**
+🏜️🌊 **Motorsport for nature — on the desert stage and the open water.**
 
 On a rally-raid stage or an offshore leg, the environment is a competitor:
 cockpit heat that cooks drivers through sealed gear, dust that starves engines
 and blinds riders, seas that decide whether a boat races or stays in harbour,
-UV that punishes every exposed minute. Zambezisport turns environmental data
-into clear run / shorten / cancel guidance for desert stages and ocean events —
-built for the conditions of southern Africa, relevant anywhere the desert and
-the sea win.
+UV that punishes every exposed minute. Zambezisport carries nature and
+environmental initiatives where motorsport audiences actually look — and turns
+environmental data into clear run / shorten / cancel guidance for desert
+stages and ocean events.
+
+The environment isn't the backdrop. It's the judge.
 
 - 🌐 **Website** → [zambezisport.com](https://zambezisport.com)
 
