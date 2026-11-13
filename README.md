@@ -14,7 +14,17 @@ built for the conditions of southern Africa, relevant anywhere the desert wins.
 
 ## Open source
 
-Small dependency-free TypeScript utilities in
+Ocean conservation utilities in
+[**zambezisport-ocean**](https://github.com/Zambezisport/zambezisport-ocean):
+
+| file | what it is |
+|---|---|
+| [`degree-heating.ts`](https://github.com/Zambezisport/zambezisport-ocean/blob/main/degree-heating.ts) | Coral-bleaching thermal stress (Degree Heating Weeks) |
+| [`wave-spectrum.ts`](https://github.com/Zambezisport/zambezisport-ocean/blob/main/wave-spectrum.ts) | Wave spectrum → sea state and survey-boat workability |
+| [`tides.ts`](https://github.com/Zambezisport/zambezisport-ocean/blob/main/tides.ts) | Harmonic tide prediction for field-work windows |
+| [`drift.ts`](https://github.com/Zambezisport/zambezisport-ocean/blob/main/drift.ts) | Surface drift / leeway trajectories for floating objects |
+
+Desert-stage condition utilities in
 [**zambezisport-utils**](https://github.com/Zambezisport/zambezisport-utils):
 
 | file | what it is |

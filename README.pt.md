@@ -15,7 +15,17 @@ relevante onde quer que o deserto mande.
 
 ## Código aberto
 
-Pequenos utilitários TypeScript sem dependências em
+Utilitários de conservação dos oceanos em
+[**zambezisport-ocean**](https://github.com/Zambezisport/zambezisport-ocean):
+
+| ficheiro | o que é |
+|---|---|
+| [`degree-heating.ts`](https://github.com/Zambezisport/zambezisport-ocean/blob/main/degree-heating.ts) | Stress térmico de branqueamento de corais (Degree Heating Weeks) |
+| [`wave-spectrum.ts`](https://github.com/Zambezisport/zambezisport-ocean/blob/main/wave-spectrum.ts) | Espectro de ondas → estado do mar e operacionalidade |
+| [`tides.ts`](https://github.com/Zambezisport/zambezisport-ocean/blob/main/tides.ts) | Previsão harmónica de marés para trabalho de campo |
+| [`drift.ts`](https://github.com/Zambezisport/zambezisport-ocean/blob/main/drift.ts) | Trajetórias de deriva de objetos flutuantes |
+
+Utilitários de condições de etapa no deserto em
 [**zambezisport-utils**](https://github.com/Zambezisport/zambezisport-utils):
 
 | ficheiro | o que é |
