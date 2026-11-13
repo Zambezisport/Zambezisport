@@ -18,6 +18,16 @@ The environment isn't the backdrop. It's the judge.
 
 ## Open source
 
+Clean-manufacturing decision tools in
+[**clean-mfg**](https://github.com/Zambezisport/clean-mfg):
+
+| file | what it is |
+|---|---|
+| [`embodied-carbon.ts`](https://github.com/Zambezisport/clean-mfg/blob/main/embodied-carbon.ts) | Per-part CO₂e — material + process energy, dominant term flagged |
+| [`nesting.ts`](https://github.com/Zambezisport/clean-mfg/blob/main/nesting.ts) | Sheet nesting for cut lists — yield % and offcut area |
+| [`material-passport.ts`](https://github.com/Zambezisport/clean-mfg/blob/main/material-passport.ts) | Part records: origin, recycled content, end-of-life plan |
+| [`repair-vs-replace.ts`](https://github.com/Zambezisport/clean-mfg/blob/main/repair-vs-replace.ts) | Repair vs new part — CO₂e per expected service unit |
+
 Ocean field-work and water-sport utilities in
 [**zambezisport-ocean**](https://github.com/Zambezisport/zambezisport-ocean):
 

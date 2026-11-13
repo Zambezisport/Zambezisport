@@ -18,6 +18,16 @@ O ambiente não é o pano de fundo. É o juiz.
 
 ## Código aberto
 
+Ferramentas de decisão para manufatura limpa em
+[**clean-mfg**](https://github.com/Zambezisport/clean-mfg):
+
+| ficheiro | o que é |
+|---|---|
+| [`embodied-carbon.ts`](https://github.com/Zambezisport/clean-mfg/blob/main/embodied-carbon.ts) | CO₂e por peça — material + energia de processo, termo dominante |
+| [`nesting.ts`](https://github.com/Zambezisport/clean-mfg/blob/main/nesting.ts) | Nesting de chapas — rendimento % e área de retalho |
+| [`material-passport.ts`](https://github.com/Zambezisport/clean-mfg/blob/main/material-passport.ts) | Registo de peça: origem, conteúdo reciclado, fim de vida |
+| [`repair-vs-replace.ts`](https://github.com/Zambezisport/clean-mfg/blob/main/repair-vs-replace.ts) | Reparar vs peça nova — CO₂e por unidade de serviço |
+
 Utilitários de trabalho no mar e desporto náutico em
 [**zambezisport-ocean**](https://github.com/Zambezisport/zambezisport-ocean):
 
